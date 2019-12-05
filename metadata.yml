@@ -15,5 +15,5 @@
 homepage: "https://crisp.chat"
 documentation: "https://help.crisp.chat/"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: 05ec47ac5e38c0eb330561b1b8b4fdecdd0358ed
     changeNotes: Initial Version
